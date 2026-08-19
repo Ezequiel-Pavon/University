@@ -1,5 +1,5 @@
 # Ingeniería Mecánica ⚙️
-
+https://ing.unlp.edu.ar/grado/carreras/ingenieria-mecanica/
 Repositorio personal con apuntes, ejercicios, trabajos prácticos, proyectos y material de estudio correspondiente a mi segunda carrera: **Ingeniería Mecánica**.
 
 La idea de este repositorio es centralizar y organizar todo el contenido académico de la carrera, facilitando tanto el estudio cotidiano como la consulta posterior de conceptos, resoluciones y proyectos.
